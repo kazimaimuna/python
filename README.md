@@ -1,2 +1,0 @@
-# python
-basic to advance
